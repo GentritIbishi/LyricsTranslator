@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "495190655215",
+    "project_id": "lyricstranslator-36252",
+    "storage_bucket": "lyricstranslator-36252.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495190655215:android:fc83a97c68560d27ca9b1a",
+        "android_client_info": {
+          "package_name": "com.gentritibishi.lyricstranslator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495190655215-5pvrl2lb3venf4mqd79pvlkh3t5pd4ng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlFpu-UCiL589JfogyYR7m2zkxX8cHwKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495190655215-5pvrl2lb3venf4mqd79pvlkh3t5pd4ng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
